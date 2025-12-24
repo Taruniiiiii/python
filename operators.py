@@ -1,11 +1,11 @@
-#area of circle using operator
+"""#area of circle using operator
 radius=int(input())
 area = 3.14 * radius * radius
 print("Area of a circle is: " + str(area))
 
 #comparison operators
 print(5>7)#false
-print(5!=7)#true
+print(5!=7)#true"""
 print(5==7)#false
 print(7>=5)#true
 
